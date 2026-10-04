@@ -358,6 +358,11 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
+file = "mods/time-control.pw.toml"
+hash = "d53479521d23390d2bf557ae1c92ae0bbbaf2200dda168e3e8afde6a92984d10"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "32801008a6f1bed605bb5eae6ca9a84dc37fe9fe4348863ae1785a60ddcb75ef"
 metafile = true
@@ -379,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "315afc024f86659bb71ee99e0232396d4740c1c9ffabd2a244d4c9dfecbb9562"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
