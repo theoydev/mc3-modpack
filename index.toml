@@ -98,6 +98,11 @@ hash = "c8a7e863f20b0c35434488b0dc75fd89cade22bef806885ae8eef21aaa3f554b"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
+metafile = true
+
+[[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "3c7aa1e213def089a6eaa89a8c4c51eade5ae89e1a674c03181a46690c340764"
 metafile = true
