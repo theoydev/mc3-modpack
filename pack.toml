@@ -1,13 +1,13 @@
 name = "mc3-modpack"
 author = "Techgamr"
-version = "2.0.3"
+version = "2.0.4"
 description = "Server mc3 modpack"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7539d4abba71b704e806b4d2f998532fd6b817b497a8eb9350c22053f0be34de"
+hash = "acc09caa830061abc8a8ad5133ce405f9d38914ce05b66a37868ba191fecb05d"
 
 [versions]
 minecraft = "1.21.1"
