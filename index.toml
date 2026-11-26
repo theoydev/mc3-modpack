@@ -398,11 +398,6 @@ hash = "0a2acbf2ebf88f3b5cc97ca7d30284bbbc38d14494c8e4ea477b80fddeb81c56"
 metafile = true
 
 [[files]]
-file = "mods/tramways.pw.toml"
-hash = "1efa1f14488590ed70a56b3c7a163121209301ab39d4a4627b0b36855bd235d7"
-metafile = true
-
-[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "8570c3bf9c3811db6a0bf36218270df792dc9de8231103100e1f3e2f1ac41e01"
 metafile = true
