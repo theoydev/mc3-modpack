@@ -38,11 +38,6 @@ hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
 metafile = true
 
 [[files]]
-file = "mods/botarium.pw.toml"
-hash = "23c6c221ffaed6fc19bf505f6d821722c630a8e549d7548d252bbd545eb979fa"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "4e80188fd31d68161ffdffa3f553026e4f58d5cacf339e82241504e3cd039aad"
 metafile = true
@@ -60,11 +55,6 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "878bea7ee908c8eb9eda3035ed5a8ed53fa3d26328756777945aaa5527765c54"
-metafile = true
-
-[[files]]
-file = "mods/create-deco-additions.pw.toml"
-hash = "e0903ac6f6f39d31b1008924f08c283ff35bdbffbec26312a94aeacb126ae86c"
 metafile = true
 
 [[files]]
@@ -105,16 +95,6 @@ metafile = true
 [[files]]
 file = "mods/create-realism.pw.toml"
 hash = "c8a7e863f20b0c35434488b0dc75fd89cade22bef806885ae8eef21aaa3f554b"
-metafile = true
-
-[[files]]
-file = "mods/create-repair.pw.toml"
-hash = "7faffc1701600d8dc780a6d9345257efc809a64869cfbcb07e36f898f06d4c8b"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "c13a9000148ee786906c815c6218fad32497e9b71853614d78a8ebff5077af76"
 metafile = true
 
 [[files]]
@@ -283,11 +263,6 @@ hash = "8d7846deb0518c2f5c6c3804ec1755396910ccbb8ce9e5d550495c46cbff0559"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "ab170eabaeec3e80c59e850a7d8aee32edfffd6a1e40e2c2f44575c69d122054"
 metafile = true
@@ -355,11 +330,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
-metafile = true
-
-[[files]]
-file = "mods/time-control.pw.toml"
-hash = "d53479521d23390d2bf557ae1c92ae0bbbaf2200dda168e3e8afde6a92984d10"
 metafile = true
 
 [[files]]
