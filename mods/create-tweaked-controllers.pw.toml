@@ -1,13 +1,13 @@
 name = "Create: Tweaked Controllers"
-filename = "create_tweaked_controllers-1.20.1-1.2.7.jar"
+filename = "create_tweaked_controllers-1.21.1-1.2.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/H6bJ8Ju4/versions/8XoqeODw/create_tweaked_controllers-1.20.1-1.2.7.jar"
+url = "https://cdn.modrinth.com/data/H6bJ8Ju4/versions/csCe2v7f/create_tweaked_controllers-1.21.1-1.2.7.jar"
 hash-format = "sha512"
-hash = "fe776166034fda41a2aea73b952d7d0c79f0da89894f8f8f1a55aeeb5c0f2b4985b728753cf9691b3d0dae653e39400f7c17e09f59317f32618f4cae2be37f43"
+hash = "9b2aa5fcf70afd97e2473bb3cd230119d95aeb4f7e7318cb44fd8959add97d0f22cbe660c6d43c9bdb25825b68f9a7a2c11e9c24d55a706bded72bc011ede270"
 
 [update]
 [update.modrinth]
 mod-id = "H6bJ8Ju4"
-version = "8XoqeODw"
+version = "csCe2v7f"

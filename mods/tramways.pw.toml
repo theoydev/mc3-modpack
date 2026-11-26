@@ -1,13 +1,13 @@
 name = "Create: Tramways"
-filename = "tramways-0.3.3-mc1.20.1-forge-18.jar"
+filename = "tramways-0.4.0-mc1.21.1-19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2CBZHBHo/versions/1fHGYmgy/tramways-0.3.3-mc1.20.1-forge-18.jar"
+url = "https://cdn.modrinth.com/data/2CBZHBHo/versions/Ao82KmI4/tramways-0.4.0-mc1.21.1-19.jar"
 hash-format = "sha512"
-hash = "d6322a4df7852492448c29690251ff061c85fca7ffd98d664e812e73ed9488fca3e4642c9e09b1130b1f2eded4f01a23192dbe0e0c17d923020ea2089c129497"
+hash = "3345821c33c9c9501c5801ca59817aafe1612cc9479d253301428ae5f84053ff6c9d2dde3d899d367f4c3f2a4b225c705d85d2623d7921937a854d5ed7854d18"
 
 [update]
 [update.modrinth]
 mod-id = "2CBZHBHo"
-version = "1fHGYmgy"
+version = "Ao82KmI4"

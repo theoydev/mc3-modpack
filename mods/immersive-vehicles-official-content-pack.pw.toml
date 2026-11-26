@@ -1,13 +1,13 @@
 name = "MTS/Immersive Vehicles - Official Content Pack [OCP]"
-filename = "MTS Official Pack-1.20.1-V29.jar"
+filename = "MTS Official Pack-1.21.1-V29.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/C7TiPPJz/versions/PNN5h914/MTS%20Official%20Pack-1.20.1-V29.jar"
+url = "https://cdn.modrinth.com/data/C7TiPPJz/versions/f4rn8RAt/MTS%20Official%20Pack-1.21.1-V29.jar"
 hash-format = "sha512"
-hash = "b7af0f74b3ad2eed9ec8100ec84e27781e43717f470dee5ecdee9cc8c572468179e2f05425315e04cce839f6f324122e83dd092c6d7e7967c03922d56086a700"
+hash = "b7c3ced28a8a13a78c0a02a583cb92839b89f0565160fa1ce5943d40efd10c74cb5bee4bc4026cf42e66541320b4e53c360c49087bdab821887dd712a156734e"
 
 [update]
 [update.modrinth]
 mod-id = "C7TiPPJz"
-version = "PNN5h914"
+version = "f4rn8RAt"
