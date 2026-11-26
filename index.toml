@@ -128,6 +128,11 @@ hash = "e5052e0fcba9af1e3c6c0734829b441bc5a23012108bf203ca01825ca12ff6b1"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "2484b38bf65c7eceef1902fa2a1c3de97333a18d220dab213390da887c4141ee"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "9ba9429afe373ac3b955325120adfd18d5cb342db0f7e12fb7774839a05c587d"
 metafile = true
@@ -153,8 +158,8 @@ hash = "2457cd418092e602c040441a24651ce013b316659ea89ce4934e1dc79df620a1"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
+file = "mods/dynamic-fps.pw.toml"
+hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
@@ -223,6 +228,11 @@ hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "0bddfa89e3b841f42543cf17e4bfc8dd6522e14ec14b33df74350055fbc43d4e"
 metafile = true
@@ -235,6 +245,16 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "52be2f8af37fa9a10f817b3a676e56c9cdf33a3632048d8e922312878244b794"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
@@ -283,6 +303,11 @@ hash = "9807e2ecf6fc0c47a31d71ec612c2ca8033c3a1a17384567e63a6625ab44c934"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "e484cc8f8f03940addbb053b09e9efd2804785d95240719b81393942eb3883d3"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
@@ -308,6 +333,11 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "e666e398b550d5720947f7b3255980386d6ef030c6a878721fa16143c0cdae5e"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
@@ -315,6 +345,16 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "3c24accda8011a6a5e04c49c40e39617bb04ab3a549d8f2e8180d3246fddac39"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "7d386f0b8631b2c4525df73f9b5e92d18b12390da1b4c734c3c68ab32eb43309"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "7a4a1168bd7c0ccb003a9612d9f119c6b9b4a8093bed048ff9c05e7d11651336"
 metafile = true
 
 [[files]]
@@ -370,4 +410,14 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "8ca1edcccfda109350ec33ff591c9068888a663474ed8140e287bb7afb015224"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "4705b53552b1acfb5c8f1fe65b40a1e122fab614eacaa15bc993ea1e5a16270c"
 metafile = true
