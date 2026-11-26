@@ -193,6 +193,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "981e52e1c4a97465921342f556cced335c6c75cdb050e9fc528d52cf4ff88b79"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
@@ -234,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0bddfa89e3b841f42543cf17e4bfc8dd6522e14ec14b33df74350055fbc43d4e"
+hash = "bd5bff86bc51d20fe7588a954b90ee451e9fde418270d49b20ab72645944a8f9"
 metafile = true
 
 [[files]]
@@ -285,6 +290,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "f1fecbcbee6806a14efb3bd38ccf10166b48004967fbe72b6c31224e5e9fc5ea"
 metafile = true
 
 [[files]]
@@ -414,10 +424,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "8ca1edcccfda109350ec33ff591c9068888a663474ed8140e287bb7afb015224"
+hash = "ee8a84349aa9a8aa7d4ee9cad09c073268f7980b4ae21bd2c339dceccac3a052"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "4705b53552b1acfb5c8f1fe65b40a1e122fab614eacaa15bc993ea1e5a16270c"
+hash = "3800f52d35bf45e48a2923831a54e3afc1df79dc723b431a6669c8df9d3fc32a"
 metafile = true

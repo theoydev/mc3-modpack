@@ -1,6 +1,6 @@
 name = "Chat Reporting Helper"
 filename = "Chat Reporting Helper.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/tN4E9NfV/versions/lUxEuNbH/Chat%20Reporting%20Helper.zip"
