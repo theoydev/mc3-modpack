@@ -1,13 +1,13 @@
 name = "Immersive Aircraft"
-filename = "immersive_aircraft-1.5.0+1.20.1-forge.jar"
+filename = "immersive_aircraft-neoforge-1.7.0+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/x3HZvrj6/versions/aDUlOdzA/immersive_aircraft-1.5.0%2B1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/x3HZvrj6/versions/xO17G766/immersive_aircraft-neoforge-1.7.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "3c51cc0e056543226c6768117f88201921613df044bb344527855e368573e5f23a88bca890ea10a236f372fca8fdf5c8424d972e57d699134474b6e3f601cc13"
+hash = "a5dbd47dc22aaaeb7bc0151af98ae8b1c53b41e6fb14ada56586dc721142e51f95a681dff146f2f93df011e63ef74e6cc475be20124713ff2c4134cd2ce66294"
 
 [update]
 [update.modrinth]
 mod-id = "x3HZvrj6"
-version = "aDUlOdzA"
+version = "xO17G766"

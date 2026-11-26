@@ -1,13 +1,13 @@
 name = "Immersive Vehicles"
-filename = "Immersive Vehicles-1.20.1-24.0.0.jar"
+filename = "Immersive Vehicles-1.21.1-24.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BCzBuhJ5/versions/xBHmZvmC/Immersive%20Vehicles-1.20.1-24.0.0.jar"
+url = "https://cdn.modrinth.com/data/BCzBuhJ5/versions/B9xnlDrC/Immersive%20Vehicles-1.21.1-24.0.0.jar"
 hash-format = "sha512"
-hash = "9f5acbef86883347a9a14f28efdbff29e8817e131bf2ef99897a90842f169dbd4a9428d35480fded1d8a5f0e4931d5711877244782d5cab59b5cbd903a960199"
+hash = "085c23a22e56fa3c2da1219cf6a8f2ff90974ae8fbc07d2efc2d11d258927075c32e2c645911db3055612d28b42556281f6711b6cc2455dc0da3e7371a505efc"
 
 [update]
 [update.modrinth]
 mod-id = "BCzBuhJ5"
-version = "xBHmZvmC"
+version = "B9xnlDrC"

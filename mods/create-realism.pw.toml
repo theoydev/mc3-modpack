@@ -1,13 +1,13 @@
 name = "Create Realism"
-filename = "realism-0.6.6-mc1.20.1-forge.jar"
+filename = "realism-0.6.6-mc1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8YVMtzCO/versions/gYvxG2YG/realism-0.6.6-mc1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/8YVMtzCO/versions/3vEkAjDR/realism-0.6.6-mc1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "2646e827868dda62c3a3c72a7c1a38d1637e054d01ad9911092c39f913d40227316478b5eabbb74c8db623aff623547082b6cf9246bfc3ff88e23249d3f2734a"
+hash = "75ba295a5e34d18ca5ad790bcdeab9f984afe1414299c1285fb146f704b28e71603b47ccf21959d79e6619bc6920df83147b0bb9c0ae827869e12978630e3fb8"
 
 [update]
 [update.modrinth]
 mod-id = "8YVMtzCO"
-version = "gYvxG2YG"
+version = "3vEkAjDR"
